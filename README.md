@@ -1,0 +1,2 @@
+# bithash-repo
+ Simple project
