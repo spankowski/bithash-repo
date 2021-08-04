@@ -1,0 +1,17 @@
+[
+    {
+        "first_name": "Adam",
+        "second_name": "Wojdynek",
+        "date_of_birth": "2020-02-20"
+    },
+    {
+        "first_name": "Mateusz",
+        "second_name": "Turek",
+        "date_of_birth": "2020-02-20"
+    },
+    {
+        "first_name": "Karol",
+        "second_name": "Owca",
+        "date_of_birth": "2020-02-20"
+    }
+]
